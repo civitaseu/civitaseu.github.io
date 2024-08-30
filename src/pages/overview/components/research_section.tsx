@@ -16,8 +16,7 @@ const ResearchSection = () => {
             <Box className={styles.highlightedProminentTitle} marginBottom="26px" textAlign={{ xs: "center", md: "start" }}>Make your Research
                 and Connect</Box>
             <Box className={styles.descriptionText}>
-                Your feedback is essential for us! Our mission is to support students, and the first step is to equip them with the information they need. The best way to do this is by hearing opinions from current students at different universities. By sharing  your thoughts, you are enhancing the experience for the future students.
-            </Box>
+                Inform yourself about your future university destination by exploring the opinions of current students, which are studying there. Connect with these students swiftly and at no cost to gain insights and first-hand experiences about your desired destination. Make informed decisions and prepare yourself better for your academy journey by learning from those, who are already living it.            </Box>
         </Grid>
 
         <Grid item md={5} textAlign="end" zIndex="999">
